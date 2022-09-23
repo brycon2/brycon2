@@ -1,4 +1,4 @@
-## Nice to meet you! I'm Bryce Chapman!  
+## Hi there!  
   
 
 <a href="https://linkedin.com/in/chapmanba" target="_blank">
@@ -9,13 +9,13 @@
 
 
 ### Biography  
-I am a biomedical engineering masters graduate from the University of Florida, currently looking for work in the United States as a biomedical/healthcare modeler.   
+My name is Bryce Chapman and I am a biomedical engineering masters graduate from the University of Florida, currently looking for work in the United States as a biomedical/healthcare modeler. I have experience in using computational and theoretical modeling of biological and physical phenomena, from fluid mechanics to drug diffusion to explosions. 
   
 
 <br/>  
 
 
-## Current Projects  
+## Current Projects on Github
 - [In-progress] Determining potential drug effectiveness for reducing stomach acidity using a k-nearest neighbor model and a  weighted decision tree. Computed in Google Colab in Python.  
   
 
