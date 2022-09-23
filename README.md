@@ -56,6 +56,3 @@ My name is Bryce Chapman and I am a biomedical engineering masters graduate from
 
 </td></tr></table>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
