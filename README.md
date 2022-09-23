@@ -17,9 +17,8 @@ My name is Bryce Chapman and I am a biomedical engineering masters graduate from
 
 ## Current Projects on Github
 - [In-progress] Determining potential drug effectiveness for reducing stomach acidity using a k-nearest neighbor model and a  weighted decision tree. Computed in Google Colab in Python.  
-  
-
 - [In-progress] Investigating the Lead-Crime relationship with NYCHealth data and NYPD Crime data from the early 2000's to 2019. Data carpentry and analysis were all done in R.  
+- [In-progress] Creating a dashboard to visualize Connecticut municipality warrant data by scraping publicly released documents in Python.  
   
 
 <br/>  
