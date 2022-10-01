@@ -47,10 +47,11 @@ My name is Bryce Chapman and I am a biomedical engineering masters graduate from
 
 - I was the president of a student organization called [GRiP](https://www.bme.ufl.edu/labs/grip/), where I helped create and donate adaptive technology to children with disabilities.  
 
+- I have a black cat named Bruce Wayne due to his propensity to pursue justice from the shadows.  
 
 </td><td valign="top" width="50%">
 
-![]()  
+![image]()  
 
 
 </td></tr></table>
