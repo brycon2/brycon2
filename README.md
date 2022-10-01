@@ -16,13 +16,14 @@ My name is Bryce Chapman and I am a biomedical engineering masters graduate from
 
 
 ## Current Projects on Github
-- [In-progress] Determining potential drug effectiveness for reducing stomach acidity using a k-nearest neighbor model and a  weighted decision tree. Computed in Google Colab in Python.  
-- [In-progress] Investigating the Lead-Crime relationship with NYCHealth data and NYPD Crime data from the early 2000's to 2019. Data carpentry and analysis were all done in R.  
-- [In-progress] Creating a dashboard to visualize Connecticut municipality warrant data by scraping publicly released documents in Python.  
+- [[GitHub](https://github.com/brycon2/GastricDrugBioactivity), [Web App](https://brycon2-gastricdrugbioactivity-app-gn1jup.streamlitapp.com/)] Determining potential drug effectiveness for reducing stomach acidity using a k-nearest neighbor model and a  weighted decision tree. Computed using Google Colab in Python.
+- [[GitHub](https://github.com/brycon2/PancreaticAdenocarcinomaGenetics), [HTML RMD File](https://brycon2.github.io/PancreaticAdenocarcinomaGenetics/)] Investigating how genes are regulated in pancreatic adenocarinoma tissue compared to normal healthy tissue. Completed in R. 
+- [GitHub] Investigating the Lead-Crime relationship with NYCHealth data and NYPD Crime data from the early 2000's to 2019. Data carpentry and analysis all done in R. 
+- [GitHub] Creating a dashboard to visualize Connecticut municipality warrant data by scraping publicly released documents in Python.  
   
 
 <br/>  
-
+* Note: Completed projects may still require some stylistic touch-ups but the work is done. 
 
 ## Languages and Tools  
 <div align="center">  
@@ -51,8 +52,7 @@ My name is Bryce Chapman and I am a biomedical engineering masters graduate from
 
 </td><td valign="top" width="50%">
 
-![image]()  
-
+<img src="68000826393__9C372D82-7D4E-4546-A82C-5FE4F0A1D78B.jpg" alt="drawing" width="400"/>
 
 </td></tr></table>
 <br />
